@@ -56,3 +56,9 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TranHungg&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+
+<br>
+
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&animation=default&layout=default&font=Redressed)
